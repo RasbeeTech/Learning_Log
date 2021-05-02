@@ -3,3 +3,4 @@
 ll_env/
 *.xml
 *.iml
+*.pyc
