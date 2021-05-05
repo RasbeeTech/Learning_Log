@@ -37,9 +37,10 @@ note: To deactivare the virtual environment, use the command: 'deactivate'.
 5. Initiate the database with the command:
 
 ```bash
- # First:
+# First:
  python manage.py makemigrations learning_logs
- # Then:
+ 
+# Then:
  python manage.py migrate
 ```
 
@@ -51,8 +52,10 @@ note: To deactivare the virtual environment, use the command: 'deactivate'.
 
 7.  With your choice of browser go your localhost:
 ```bash
+# Option 1:
  http://127.0.0.1:8000/
- # Or
+ 
+# Option 2:
  http://localhost:8000/
 ```
 
