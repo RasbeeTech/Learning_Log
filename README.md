@@ -5,9 +5,9 @@
 Allows users to log the topics they're interested in and to make journal entries as they learn about each topic.  The Learning Log home page will describe the site and invite users to either register or log in.  Once logged in, a user can create new topics, add new entries, and read and edit existing entries.  
 
 ## Technologies
-Python: v 3.8.8
-Django: v 3.2
-Django-bootstrap: v 3.0.1
+Python: v 3.8.8  
+Django: v 3.2  
+Django-bootstrap: v 3.0.1  
 
 ## Run()
 
